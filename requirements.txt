@@ -1,0 +1,12 @@
+python-dotenv
+loguru
+pypdf
+pandas
+gradio
+openai
+pinecone-client
+langchain
+langchain-core
+langchain-openai
+langchain-pinecone
+langgraph
